@@ -49,7 +49,7 @@ Install npm dependencies of express and mongoose using " npm install " command.
 
 Using MongoDB local (Compass) as well as MongoDB Cloud (Atlas), depends on you which you want to use 
 Just uncomment and comment the codes vice versa in createDatabase.js and index.js<br/>
-* - **note** : To demonstrate I am using deployed project over the vercel<br/>
+* - **note** : To demonstrate I am using deployed project over the onRender<br/>
 <br/>
 
 Start the backend server using nodemon or node index.js command.
@@ -79,7 +79,7 @@ app.use() is used to handle all the unwanted requests. It will return 404 Not Fo
 *__Use Json Viewer extension in Browser for better view__*
 
  *__live link__* <br/>
- Available Soon...
+ https://youtube-subscribers-xl63.onrender.com/
  
 
 
