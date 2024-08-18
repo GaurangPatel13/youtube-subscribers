@@ -14,8 +14,7 @@
 ├─ index.js              
 ├─ package-lock.json     
 ├─ package.json          
-├─ Readme.md             
-└─ vercel.json     
+└─ Readme.md    
 
 
 ## Introduction
@@ -33,7 +32,6 @@
 * Express
 * MongoDB (Atlas and Compass)
 * Raw data
-* Vercel.json to deploy at vercel
 * Path module to join index.html
 * Postman || Insomnia
 * nodemon
