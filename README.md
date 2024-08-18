@@ -1,8 +1,8 @@
-# Get-Youtube-Subscribers (AlmaBetter__Capstone__Project)
+# Youtube-Subscribers (AlmaBetter__Capstone__Project)
 
 ## Folder Structure
 
-        Get-Youtube_subscribers  
+        Youtube_subscribers  
 ├─ src                   
 │  ├─ models             
 │  │  └─ subscribers.js  
