@@ -22,9 +22,7 @@
 * A backend project which includes specific routes in the URL .
 * User can  do the following as below:
     - *access the number of subscribers*, 
-    - *access subscribers by specific IDs and names*, 
-    - *add subscribers*, &
-    - *delete subscibers*
+    - *access subscribers by specific IDs and names*
 
 ## Used in this project:
 
@@ -33,7 +31,6 @@
 * MongoDB (Atlas and Compass)
 * Raw data
 * Path module to join index.html
-* Postman || Insomnia
 * nodemon
 * dotenv
 
